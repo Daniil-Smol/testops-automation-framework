@@ -1,0 +1,10 @@
+# кеш Python 
+__pycache__/
+*.pyc
+
+# переменные окружения 
+.env
+
+#IDE 
+.idea/
+.vscode/
